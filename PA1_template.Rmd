@@ -165,4 +165,5 @@ xyplot(steps ~ interval | daylevel, meanStepsByDay, type = "l", layout = c(1, 2)
     xlab = "5-minute Interval", ylab = "Number of steps")
 ```
 
+
 Looking at the plots, there seems to be more activity during the weekends than weekdays!
