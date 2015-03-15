@@ -266,4 +266,5 @@ xyplot(steps ~ interval | daylevel, meanStepsByDay, type = "l", layout = c(1, 2)
 
 ![](PA1_template_files/figure-html/unnamed-chunk-11-1.png) 
 
+
 Looking at the plots, there seems to be more activity during the weekends than weekdays!
