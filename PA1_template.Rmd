@@ -131,7 +131,6 @@ median(imputTotSteps$steps)
 ```
 With imputed values, there is no change in Mean, but some change in Median
 
-```
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
